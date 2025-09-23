@@ -1,5 +1,4 @@
-natcaptool
-Licence
+# Licence
 Unless stated otherwise, the codebase is released under the GNU General Public License. The documentation is available under the terms of the Open Government Licence, Version 3.
 
 Copyright (C) 2025 NatureScot
